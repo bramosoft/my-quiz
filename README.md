@@ -1,18 +1,18 @@
-# my-quiz
+# My Quiz
 
-## Overview
 A simple quiz application built with Python.
 
 ## Features
 - User-friendly interface
-- Multiple choice questions
+- Multiple-choice questions
+
+## Usage
+Clone the repository to run the quiz application.
+
+## Future Plans
+- Add more questions
+- Improve user interface
 
 ## Technologies
 - Python
 
-## Usage
-Clone the repository and run the main script to start the quiz.
-
-## Future Plans
-- Add more quizzes
-- Include scoring system
